@@ -1,14 +1,16 @@
-## Hi there 👋
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUr9HQvgR4UrsTPXO2oVluw%2FUntitled%3Ftype%3Ddesign%26node-id%3D1%253A2%26mode%3Ddesign%26t%3DlGKCTuUbXx0Uvquo-1" allowfullscreen></iframe>
+## Atlas Finance GitHub Repository
 
+Welcome to the official GitHub repository for Atlas Finance, an organization dedicated to advancing our collective understanding of how the world works. Our mission is to democratize financial intelligence, providing instant access to the world's financial information and insights. We're driven by a commitment to transparency, innovation, and education across three key branches: Atlas Research, Atlas Visual, and Atlas Trade.
 
-<!--
+### Atlas Research
+The Atlas Research App is the cornerstone of our efforts, harnessing the power of Large Language Models (LLMs) and an extensive collection of datasets & knowledge bases to empower individuals with instant access to investment research & insights. Try our beta at [Atlas Finance](https://www.atlas-finance.io)
 
-**Here are some ideas to get you started:**
+### Atlas Trade
+Atlas Trade is an open source training ground for quantitative strategies. Here developers, data scientists, quants, & investors can contribute, share ideas, get boilerplate code and explore strategies that may work in the real world. Visit our open source repo at [Atlas Trade](https://github.com/atlas-finance-io/atlas_trade)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Atlas Visual
+Atlas Visual is our artistic interpretation how the world works. Through captivating visualizations and animations, we bring the intricacies of global economics to life. Our aim is to create a profound understanding of how the world operates by transforming complex data into simple and beautiful visuals. Visit our youtube channel at [Atlas Visual](https://www.youtube.com/channel/UC3LXWACD6Ga3-citvazXNOg)
+
+We invite you to explore this GitHub repository, which serves as a collaborative platform for sharing code, ideas, and insights. Here, we strive to foster a community of like-minded individuals passionate about reshaping the financial landscape through knowledge, innovation, and education. Whether you're a developer, data scientist, or simply intrigued by the cause & effect relationships in the global economy & investment space, we welcome your contributions and engagement.
+
+For more information about Atlas Finance and our initiatives, visit our official website: https://www.atlas-finance.io
