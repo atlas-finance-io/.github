@@ -1,2 +1,2 @@
-## Atlas Finance GitHub Repository
+## Atlas Research GitHub Repository
 
